@@ -1,0 +1,14 @@
+p {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.title{
+    text-align:center; 
+}
+
+.screenshot{
+    width:25%;
+    height:30%;
+    margin-left: 20%;
+}
